@@ -1,3 +1,25 @@
+Package Installation Instructions:
+
+Python - https://www.python.org/downloads/
+Anaconda - https://docs.continuum.io/anaconda/install/
+Jupyter Notebook - http://jupyter.readthedocs.io/en/latest/install.html
+Scikit Learn - http://scikit-learn.org/stable/install.html
+Tensorflow - https://www.tensorflow.org/versions/r0.11/get_started/os_setup.html
+ 
+
+Instructional videos for step by step installation guides:
+
+Windows
+
+Introduction to Machine Learning with Python - Set up Instructions for Windows (python, numpy, matplotlib, scipy and scikit-learn)
+Install Anaconda, Jupyter Notebook, Spyder on Windows 10
+Installing TensorFlow - Installing CPU and GPU TensorFlow on Windows
+Mac
+
+Introduction to Machine Learning with Python - Set up Instructions for Mac (python, numpy, matplotlib, scipy and scikit-learn)
+Installing Anaconda & iPython Jupyter Notebook on Mac OS X
+Installing TensorFlow - TensorFlow is supported by Mac and Linux, but not Windows. You can use their Docker distribution on Windows if you wanted.
+
 Events Hosted by [ACCEL.AI](http://accel.ai)
 
 
